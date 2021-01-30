@@ -13,8 +13,8 @@ BlynkTimer timer;
 
 // WIFI Authentication
 char auth[] = "6I6q8-ai22sWGQ0i9BezkAtC1lh2I80H";
-char ssid[] = "Saket";
-char pass[] = "saket123";
+char ssid[] = "Amit";
+char pass[] = "Amit_DNJ123";
 
 void setup() {
   Blynk.begin(auth, ssid, pass);
